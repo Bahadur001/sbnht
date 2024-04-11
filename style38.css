@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+
+  tr button {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(211, 208, 208);
+
+  }
+  tr button:hover{
+    background-color: red;
+
+  }
+  #onbutton{
+    width: 50px;
+  }
+  #offbutton{
+    width: 100px;
+  }
+  body{
+    background-color: rgb(2, 193, 132);
+  }
