@@ -13,7 +13,7 @@ function elaveet() {
     cell3.innerHTML = "<input type='text' class='surname' placeholder='Soyad'>";
     cell4.innerHTML = "<input type='text' class='age' placeholder='Yas'>";
     cell5.innerHTML= '<button id="onbutton" onclick="removeRow(this)">Sil</button>' +
-    '<button id="offbutton" onclick="saveRow(this)">Kaydet</button>'
+    '<button id="offbutton" onclick="saveRow(this)">Kaydele</button>'
 
 }
 
